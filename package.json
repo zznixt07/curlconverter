@@ -22,7 +22,7 @@
   ],
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
-  "type": "module",
+  "type": "commonjs",
   "dependencies": {
     "@curlconverter/tree-sitter-bash": "^0.0.2",
     "jsesc": "^3.0.2",
